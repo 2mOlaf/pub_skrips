@@ -49,16 +49,16 @@
         <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-9" value="DB (a1)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="320" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;fontColor=#ffffff;strokeColor=light-dark(#B20000,#000000);" vertex="1" parent="1">
           <mxGeometry x="310" y="430" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#e51400;fontColor=#ffffff;strokeColor=light-dark(#B20000,#000000);" vertex="1" parent="1">
           <mxGeometry x="310" y="540" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#008a00;fontColor=#ffffff;strokeColor=light-dark(#005700,#000000);" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="17" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="HJ6DZ1mjGuPNDtk3q2yh-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#008a00;fontColor=#ffffff;strokeColor=light-dark(#005700,#000000);" vertex="1" parent="1">
           <mxGeometry x="311.5" y="210" width="17" height="20" as="geometry" />
         </mxCell>
       </root>
